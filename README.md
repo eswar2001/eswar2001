@@ -1,7 +1,9 @@
 ### Hi there 👋
 
+I am [Eswar Abisheak Tadiparthi](https://eswar.dev) A Computer Science Engineer, Developer who loves to code and solve problems.🚀.  
+
+
 <!--
-**eswar2001eswar2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -14,17 +16,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
 <a href="https://github.com/eswar2001">⚡</a>
 <a href="https://www.linkedin.com/in/eswar2001">👯</a>
 <a href="https://eswar2001.medium.com">📺</a>
 <a href="https://twitter.com/_eswar2001">🐤</a>
 <a href="mailto:teswar2001@gmail.com">📧</a>
-
-<br/>
 <br/>
 
-My name is [Eswar Abisheak Tadiparthi](https://eswar.dev) A Computer Science Engineer, Developer who loves Programming and Problem solving.🚀.
-<br /> 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eswar2001&layout=compact)  
+
 ![eswar2001's github stats](https://github-readme-stats.vercel.app/api?username=eswar2001&show_icons=true&theme=radical)
+<br />
+<br />
