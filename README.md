@@ -26,5 +26,4 @@ Here are some ideas to get you started:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eswar2001&layout=compact)  
 
 ![eswar2001's github stats](https://github-readme-stats.vercel.app/api?username=eswar2001&show_icons=true&theme=radical)
-<br />
-<br />
+![](https://komarev.com/ghpvc/?username=eswar2001&style=flat-square)
