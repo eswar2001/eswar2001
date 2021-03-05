@@ -21,9 +21,4 @@ Here are some ideas to get you started:
 <a href="https://eswar2001.medium.com">📺</a>
 <a href="https://twitter.com/_eswar2001">🐤</a>
 <a href="mailto:teswar2001@gmail.com">📧</a>
-![](https://komarev.com/ghpvc/?username=eswar2001&style=flat-square)
 <br/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eswar2001&layout=compact)  
-
-![eswar2001's github stats](https://github-readme-stats.vercel.app/api?username=eswar2001&show_icons=true&theme=radical)
