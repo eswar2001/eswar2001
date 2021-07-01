@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <a href="mailto:teswar2001@gmail.com">📧</a>
 <br/>
 
-# Blog posts
+#### Blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Master on how to compare Algorithms](https://eswar2001.medium.com/master-to-compare-algorithms-768d82518974?source=rss-7d324d2ed1b7------2)
 - [DP-Dynamic Programming](https://eswar2001.medium.com/dp-dynamic-programming-97ca63cfb025?source=rss-7d324d2ed1b7------2)
