@@ -22,3 +22,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/_eswar2001">🐤</a>
 <a href="mailto:teswar2001@gmail.com">📧</a>
 <br/>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
