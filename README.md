@@ -25,9 +25,9 @@ Here are some ideas to get you started:
 
 #### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Will you force your client to install python?](https://eswar2001.medium.com/will-you-force-your-client-to-install-python-7e4f35d1089d?source=rss-7d324d2ed1b7------2)
 - [Fake Rest API in 30 sec](https://eswar2001.medium.com/fake-rest-api-in-30-sec-21fe898bd032?source=rss-7d324d2ed1b7------2)
 - [Master on how to compare Algorithms](https://eswar2001.medium.com/master-to-compare-algorithms-768d82518974?source=rss-7d324d2ed1b7------2)
 - [DP-Dynamic Programming](https://eswar2001.medium.com/dp-dynamic-programming-97ca63cfb025?source=rss-7d324d2ed1b7------2)
 - [Modern JavaScript ES6](https://eswar2001.medium.com/modern-javascript-es6-dc827033b043?source=rss-7d324d2ed1b7------2)
-- [Longest Common Prefix — LeetCode](https://eswar2001.medium.com/longest-common-prefix-leetcode-c634047a6301?source=rss-7d324d2ed1b7------2)
 <!-- BLOG-POST-LIST:END -->
