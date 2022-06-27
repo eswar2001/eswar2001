@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am [Eswar Abisheak Tadiparthi](https://eswar.dev) A Computer Science Engineer, Developer who loves to code and solve problems.🚀.  
+I am [Eswar Abisheak Tadiparthi](https://eswar2001.github.io) A Computer Science Engineer, Developer who loves to code and solve problems.🚀.  
 
 
 <!--
